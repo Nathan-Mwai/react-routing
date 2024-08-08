@@ -81,3 +81,15 @@ input{
   margin: 8px 0;
   box-sizing: border-box;
 }
+
+.user-details{
+  display: flex;
+}
+
+.update-user-inputs{
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 30px;
+
+}
